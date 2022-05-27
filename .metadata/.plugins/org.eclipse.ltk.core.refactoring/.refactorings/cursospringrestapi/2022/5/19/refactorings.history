@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;cursospringrestapi&apos;&#x0D;&#x0A;- Original project: &apos;cursospringrestapi&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     cursospringrestapi-0.0.1-SNAPSHOT.jar&#x0D;&#x0A;     cursospringrestapi-0.0.1-SNAPSHOT.jar.original&#x0D;&#x0A;     cursospringrestapi-0.0.1-SNAPSHOT.war&#x0D;&#x0A;     cursospringrestapi-0.0.1-SNAPSHOT.war.original" description="Delete elements" element1="target/cursospringrestapi-0.0.1-SNAPSHOT.jar" element2="target/cursospringrestapi-0.0.1-SNAPSHOT.war" element3="target/cursospringrestapi-0.0.1-SNAPSHOT.war.original" element4="target/cursospringrestapi-0.0.1-SNAPSHOT.jar.original" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1651793239144" subPackages="false" version="1.0"/>
+</session>
